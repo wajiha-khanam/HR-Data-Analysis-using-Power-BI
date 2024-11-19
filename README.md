@@ -13,6 +13,9 @@ The analysis aims to answer the following questions:
 8. Employee filter by starting letter.
 9. Leave balance analysis.
 
+## Dataset Used
+https://github.com/wajiha-khanam/HR-Data-Analysis-using-Power-BI/blob/main/hr-data.xlsx
+
 ## Process
 ### 1. Data Preparation:
 Collected and cleaned HR data for accurate analysis.
@@ -22,3 +25,4 @@ Developed interactive Power BI dashboards for each question.
 Incorporated filters, slicers, and drill-down capabilities for dynamic exploration.
 ### 3. Key Visualizations:
 Bar charts, pie charts, scatter plots, and line graphs to visualize trends and distributions.
+
