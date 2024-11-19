@@ -14,7 +14,7 @@ The analysis aims to answer the following questions:
 9. Leave balance analysis.
 
 ## Dataset Used
-https://github.com/wajiha-khanam/HR-Data-Analysis-using-Power-BI/blob/main/hr-data.xlsx
+- <a href="https://github.com/wajiha-khanam/HR-Data-Analysis-using-Power-BI/blob/main/hr-data.xlsx">Data set</a>
 
 ## Process
 ### 1. Data Preparation:
@@ -25,4 +25,10 @@ Developed interactive Power BI dashboards for each question.
 Incorporated filters, slicers, and drill-down capabilities for dynamic exploration.
 ### 3. Key Visualizations:
 Bar charts, pie charts, scatter plots, and line graphs to visualize trends and distributions.
+
+## Dashboard
+- <a href="https://github.com/wajiha-khanam/HR-Data-Analysis-using-Power-BI/blob/main/Dashboard.png">View Dashboard</a>
+
+## Conclusion
+The HR Data Analysis project provides a comprehensive view of employee demographics, salary structures, and organizational growth. By leveraging Power BI, the report delivers valuable insights to support HR decision-making, such as improving diversity, identifying high-performing roles, and monitoring workforce trends. This project demonstrates the power of data visualization in uncovering actionable HR insights.
 
